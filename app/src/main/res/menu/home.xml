@@ -9,5 +9,8 @@
         android:visible="false"
         app:itemIconTint="@null"
         app:showAsAction="always" />
+        android:title="@string/menu_open"
+        android:icon="@drawable/remove_add"
+    
 
 </menu>
